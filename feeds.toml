@@ -1,13 +1,6 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
+[aom]
+title = "Academy of Management Journal"
+url = "https://journals.aom.org/toc/amj/0/ja"
+entrySelector = ".article-meta"
 titleSelector = "b"
 linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
