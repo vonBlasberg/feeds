@@ -1,6 +1,0 @@
-[aom]
-title = "Academy of Management Journal"
-url = "https://journals.aom.org/toc/amj/0/ja"
-entrySelector = ".article-meta"
-titleSelector = "b"
-linkSelector = "b a"
