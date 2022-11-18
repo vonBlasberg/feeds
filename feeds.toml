@@ -2,5 +2,6 @@
 title = "Academy of Management Journal"
 url = "https://journals.aom.org/toc/amj/0/ja"
 entrySelector = ".article-meta"
-titleSelector = "b"
-linkSelector = "b a"
+titleSelector = "a"
+contentSelector = ".toc-item__abstract"
+linkSelector = ""
