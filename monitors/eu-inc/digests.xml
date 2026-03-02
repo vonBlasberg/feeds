@@ -4,11 +4,11 @@
   <subtitle>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</subtitle>
   <link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self"/>
   <id>urn:openclaw:monitor:eu-inc:digests</id>
-  <updated>2026-03-02T16:42:03Z</updated>
+  <updated>2026-03-02T20:41:43Z</updated>
   <author><name>OpenClaw Monitor</name></author>
   <entry>
     <title>eu-inc Digest 2026-W10</title>
-    <id>urn:openclaw:monitor:eu-inc:digest:2026-W10</id>
+    <id>urn:openclaw:monitor:eu-inc:digest:2026-W10:v2</id>
     <updated>2026-03-02T06:01:53Z</updated>
     <content type="html"><![CDATA[<style>
   body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6; color: #1a1a1a; max-width: 680px; margin: 0 auto; padding: 16px; font-size: 16px; }
@@ -124,7 +124,7 @@
   </entry>
   <entry>
     <title>eu-inc Digest 2026-W09</title>
-    <id>urn:openclaw:monitor:eu-inc:digest:2026-W09</id>
+    <id>urn:openclaw:monitor:eu-inc:digest:2026-W09:v2</id>
     <updated>2026-02-23T06:02:19Z</updated>
     <content type="html"><![CDATA[<style>
   body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6; color: #1a1a1a; max-width: 680px; margin: 0 auto; padding: 16px; font-size: 16px; }
@@ -221,7 +221,7 @@
   </entry>
   <entry>
     <title>eu-inc Digest 2026-W08</title>
-    <id>urn:openclaw:monitor:eu-inc:digest:2026-W08</id>
+    <id>urn:openclaw:monitor:eu-inc:digest:2026-W08:v2</id>
     <updated>2026-02-16T06:03:55Z</updated>
     <content type="html"><![CDATA[<style>
   body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6; color: #1a1a1a; max-width: 680px; margin: 0 auto; padding: 16px; font-size: 16px; }
@@ -333,7 +333,7 @@
   </entry>
   <entry>
     <title>eu-inc Digest 2026-W07</title>
-    <id>urn:openclaw:monitor:eu-inc:digest:2026-W07</id>
+    <id>urn:openclaw:monitor:eu-inc:digest:2026-W07:v2</id>
     <updated>2026-02-09T06:54:24Z</updated>
     <content type="html"><![CDATA[<style>
   body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6; color: #1a1a1a; max-width: 680px; margin: 0 auto; padding: 16px; font-size: 16px; }
@@ -406,7 +406,7 @@
   </entry>
   <entry>
     <title>eu-inc Digest 2026-W06</title>
-    <id>urn:openclaw:monitor:eu-inc:digest:2026-W06</id>
+    <id>urn:openclaw:monitor:eu-inc:digest:2026-W06:v2</id>
     <updated>2026-02-05T22:21:23Z</updated>
     <content type="html"><![CDATA[<style>
   body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6; color: #1a1a1a; max-width: 680px; margin: 0 auto; padding: 16px; font-size: 16px; }
