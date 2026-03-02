@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>eu-inc - Weekly Digests</title>
   <subtitle>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</subtitle>
-  <link href="http://127.0.0.1:18800/feeds/eu-inc/digests.xml" rel="self"/>
+  <link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self"/>
   <id>urn:openclaw:monitor:eu-inc:digests</id>
-  <updated>2026-03-02T09:29:23Z</updated>
+  <updated>2026-03-02T14:17:05Z</updated>
   <author><name>OpenClaw Monitor</name></author>
   <entry>
     <title>eu-inc Digest 2026-W10</title>
