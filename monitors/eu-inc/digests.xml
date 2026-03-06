@@ -5,11 +5,11 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 06 Mar 2026 15:30:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:00:23 +0000</lastBuildDate>
   <item>
     <title>EU INC | 2026-W10</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:3a1edd86</guid>
-    <pubDate>Fri, 06 Mar 2026 15:18:15 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:b5c3e26b</guid>
+    <pubDate>Fri, 06 Mar 2026 16:00:17 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -20,23 +20,32 @@
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
 <h2>eu-inc Weekly | 2026-W10</h2>
+<h2>eu-inc Weekly | 2026-W10</h2>
 <hr />
-<p>EU-Inc gained momentum this week with updated legislative timing and fresh analysis from legal and consulting perspectives on its potential impact across sectors.</p>
+<p>A busy week as law firms across Europe rushed to publish EU-Inc analyses, broadening geographic coverage from Germany and Ireland to Cyprus and Belgium, while new voices from impact investing and accountancy signaled the debate is expanding well beyond the startup bubble.</p>
 <h3>This Week</h3>
-<p>🆕 <strong>EU–INC roadmap and Grant Thornton analysis</strong>(https://www.eu-inc.org/roadmap) (eu-inc.org)
-The official roadmap now specifies Q1 2026 for the European Commission's legislative proposal, firming up previously vague timing.</p>
-<p><strong>EU‑INC: A Game‑Changing EU Company Structure for Tech Startups</strong>(https://www.grantthornton.se/en/insights/article/eu-inc-a-game-changer-for-europes-tech-startups/) (Grant Thornton)
-Grant Thornton examines how the voluntary pan-European legal entity could specifically benefit tech startup formation and scaling.</p>
-<p><strong>EU Inc. – The truly European company structure</strong>(https://www.mcdermottlaw.com/insights/eu-inc-the-truly-european-company-structure/) (McDermott)
-McDermott covers President von der Leyen's January 20 World Economic Forum address positioning EU-Inc within Europe's broader resilience strategy.</p>
-<p><strong>Why EU-INC Matters For Europe's Biggest Builders</strong>(https://www.forbes.com/councils/forbesfinancecouncil/2026/02/24/why-eu-inc-matters-for-europes-biggest-builders/) (Forbes)
-Forbes explores how private equity and construction sector players view EU-Inc's potential for managing cross-border operations.</p>
+<p>🆕 <strong><a href="https://www.mcdermottlaw.com/insights/eu-inc-the-truly-european-company-structure/">EU Inc. - The truly European company structure</a></strong> (McDermott)
+Anchors the EU-Inc proposal in von der Leyen's January WEF address and walks through the corporate legal mechanics with unusual depth for a client briefing.</p>
+<p>🆕 <strong><a href="https://www.euractiv.com/news/five-ways-to-an-eu-inc/">Five ways to an EU Inc</a></strong> (Euractiv)
+Maps out distinct implementation approaches the Commission could take, moving the debate from whether to how.</p>
+<p>🆕 <strong><a href="https://www.forbes.com/councils/forbesfinancecouncil/2026/02/24/why-eu-inc-matters-for-europes-biggest-builders/">Why EU-INC Matters For Europe's Biggest Builders</a></strong> (Forbes)
+Reframes EU-Inc through the lens of VC fund structures and liquidity management rather than the usual founder-centric narrative.</p>
+<p>🆕 <strong><a href="https://www.grantthornton.se/en/insights/article/eu-inc-a-game-changer-for-europes-tech-startups/">EU-INC: A Game-Changing EU Company Structure for Tech Startups</a></strong> (Grant Thornton)
+Confirms the Q1 2026 legislative proposal timeline and details the voluntary EU-level entity's specific benefits for cross-border tech scaling.</p>
+<p>🆕 <strong><a href="https://www.eu-inc.org/roadmap">EU-Inc.org roadmap update</a></strong> (EU-Inc.org)
+Reveals DG CNECT, DG GROW, and DG RTD are now involved alongside DG JUST, with Henna Virkkunen named as overseeing EVP.</p>
+<h3>Radar</h3>
+<ul>
+<li>🧑 <a href="https://www.impacteurope.net/insights/rewind-eu-inc">Impact Europe</a> (impact investing network) published an EU-Inc overview, bringing the social finance sector into the conversation</li>
+<li>🧑 <a href="https://www.ypog.law/en/insight/eu-inc-a-potential-turning-point-for-european-startups-and-growth-companies">YPOG</a>, a German VC-focused law firm, calls EU-Inc "a potential turning point," adding venture-legal weight to the supporter camp</li>
+<li>📅 <a href="https://accountancyeurope.eu/events/the-28th-regime-whats-in-it-for-smes/">Accountancy Europe</a> is hosting an event on the 28th regime for SMEs, signaling scope creep beyond the startup framing</li>
+</ul>
 <hr />]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W09</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W09:0655a437</guid>
-    <pubDate>Fri, 06 Mar 2026 15:25:25 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W09:174ad19f</guid>
+    <pubDate>Fri, 06 Mar 2026 15:55:54 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -48,21 +57,21 @@ Forbes explores how private equity and construction sector players view EU-Inc's
 </style>
 <h2>eu-inc Weekly | 2026-W09</h2>
 <hr />
-<p>EU Inc. dominated policy analysis this week as law firms and news outlets digested President von der Leyen's Davos announcement of the new European company structure.</p>
+<p>A quiet week with no new developments on EU Inc., as attention focused on analyzing implementation details of the Commission's January proposal. The conversation centered on practical considerations for founders and the legislative timeline ahead.</p>
 <h3>This Week</h3>
-<p><strong><a href="https://www.mwe.com/insights/eu-inc-the-truly-european-company-structure/">EU Inc. – The truly European company structure</a></strong> (McDermott)
-Provides legal analysis of von der Leyen's World Economic Forum address that aimed to "write corporate legal history" with the EU Inc. proposal.</p>
 <p><strong><a href="https://www.euronews.com/my-europe/2026/02/04/eu-inc-brussels-plan-for-a-single-company-law-across-europe">EU Inc: Brussels' plan for a single company law across Europe</a></strong> (Euronews)
-Explains the "28th regime" concept as an optional structure designed to help European startups scale faster and compete globally.</p>
+Provides concrete details on the "28th regime" structure and confirms the Commission's target of parliamentary approval by end of March.</p>
 <p><strong><a href="https://www.taylorwessing.com/en/insights-and-events/insights/2026/01/eu-inc">EU Inc.: Founders and companies with expansion plans must now think strategically</a></strong> (Taylor Wessing)
-Advises founders and companies on strategic considerations following von der Leyen's push to make business formation much easier in Europe.</p>
+Legal perspective on how startups should prepare for the new company structure and what strategic decisions they need to make now.</p>
+<p><strong><a href="https://www.mwe.com/insights/eu-inc-the-truly-european-company-structure/">EU Inc. – The truly European company structure</a></strong> (McDermott)
+Analysis of von der Leyen's WEF announcement positioning EU Inc. as part of Europe's broader competitiveness agenda.</p>
 <h3>Radar</h3>
-<h2>- Commission targeting parliamentary approval by end of March for the EU Inc. framework</h2>]]></description>
+<h2>📅 Commission targeting parliamentary approval by end of March, setting up a critical legislative window for the EU Inc. proposal</h2>]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W08</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W08:cf18ad8e</guid>
-    <pubDate>Fri, 06 Mar 2026 15:23:43 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W08:d8be70f9</guid>
+    <pubDate>Fri, 06 Mar 2026 15:49:53 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -74,22 +83,20 @@ Advises founders and companies on strategic considerations following von der Ley
 </style>
 <h2>eu-inc Weekly | 2026-W08</h2>
 <hr />
-<p>EU-Inc gained major momentum this week with Ursula von der Leyen's endorsement at Davos and growing industry support for the pan-European startup entity proposal.</p>
+<p>A quiet week for EU-INC developments, with no major news items breaking through the usual background chatter. The discussion remains focused on explaining the concept to different audiences rather than advancing the proposal itself.</p>
 <h3>This Week</h3>
 <p><strong><a href="https://tech.eu/2026/01/20/the-european-commission-launches-eu-inc-the-long-awaited-28th-regime-for-startups/">The European Commission launches EU Inc., the long-awaited '28th regime' for startups</a></strong> (Tech.eu)
-The Commission formally announced EU Inc as a single, optional EU-wide legal entity that sits alongside national company structures rather than replacing them.</p>
+Reports the Commission's January 20 launch announcement, positioning EU Inc as an optional EU-wide legal entity that operates alongside national company structures.</p>
 <p><strong><a href="https://klinger.io/posts/eu-inc">You can just do things – Creating a pan-European legal entity, the right way</a></strong> (Andreas Klinger)
-Klinger outlines how EU-Inc could create a single playbook for European founders with online entity creation, cross-border stock options, and standardized legal documents.</p>
-<p><strong><a href="https://sciencebusiness.net/news/start-ups/momentum-builds-eu-wide-company-status">Momentum builds for EU-wide company status</a></strong> (Science|Business)
-Von der Leyen directly referenced the "EU-Inc" campaign at Davos, acknowledging the specific recommendations from startup founders and investors.</p>
-<p><strong><a href="https://whatsupeu.kessel.media/posts/pst_df581d42c6f041849fbf9d648f199eb8/eu-inc-les-premices-dun-delaware-europeen">EU-Inc : les prémices d'un Delaware européen ?</a></strong> (What's Up EU)
-French analysis positions EU-Inc as Europe's answer to Delaware's corporate dominance, creating a true single market for entrepreneurs.</p>
+Provides a founder's perspective on implementation details: online entity creation, Europe-wide stock options, and standardized legal documentation as the core playbook.</p>
+<p><strong><a href="https://www.impacteurope.net/insights/rewind-eu-inc">A Rewind on EU-INC</a></strong> (Impact Europe)
+Highlights the promised 48-hour incorporation timeline and cross-border scaling as core pillars of the proposed structure.</p>
 <hr />]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W07</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W07:abac2e61</guid>
-    <pubDate>Fri, 06 Mar 2026 15:20:48 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W07:b15ced56</guid>
+    <pubDate>Fri, 06 Mar 2026 15:53:55 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -101,16 +108,19 @@ French analysis positions EU-Inc as Europe's answer to Delaware's corporate domi
 </style>
 <h2>eu-inc Weekly | 2026-W07</h2>
 <hr />
-<p>A quiet week for EU incorporation policy, with limited new content surfacing across monitoring sources.</p>
+<p>A quiet week for EU-INC developments following last month's flurry of activity around von der Leyen's Davos announcement. This week's monitoring surfaced primarily existing resources and analysis pieces rather than breaking news.</p>
 <h3>This Week</h3>
-<p><strong><a href="https://www.eu-inc.org/">EU–INC — One Europe. One Standard. — Pan-European legal entity.</a></strong> (brave)
-A detailed proposal for creating a standardized pan-European legal entity specifically designed to help startups scale across EU borders.</p>
+<p><strong><a href="https://www.grantthornton.se/en/insights/article/eu-inc-a-game-changer-for-europes-tech-startups/">EU‑INC: A Game‑Changing EU Company Structure for Tech Startups</a></strong> (Grant Thornton)
+FAQ-style explainer positioning EU-INC as a "digital-first and modern" voluntary 28th regime for growth companies, confirming Q1 2026 as the Commission's target for legislative proposal.</p>
+<p><strong><a href="https://www.eu-inc.org/roadmap">Roadmap</a></strong> (EU-INC.org)
+Official timeline showing the Commission's DG JUST under Commissioner McGrath will lead the legislative proposal, with key milestones including petition launch and stakeholder engagement through Q1 2026.</p>
+<p>With only two substantive items this week, the EU-INC momentum appears to be in a consolidation phase ahead of the Commission's Q1 2026 legislative proposal.</p>
 <hr />]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W06</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W06:fa12dcb5</guid>
-    <pubDate>Fri, 06 Mar 2026 15:19:55 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W06:ee82a208</guid>
+    <pubDate>Fri, 06 Mar 2026 15:52:01 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -122,16 +132,14 @@ A detailed proposal for creating a standardized pan-European legal entity specif
 </style>
 <h2>eu-inc Weekly | 2026-W06</h2>
 <hr />
-<p>The week was dominated by Ursula von der Leyen's official announcement of EU-INC at Davos, sparking significant discussion across startup and policy circles about Europe's new pan-European company structure.</p>
+<p>A quiet week for EU-INC policy news, with coverage focused on explaining the concept following the Davos announcement rather than advancing new policy details.</p>
 <h3>This Week</h3>
-<p>🆕 <strong><a href="https://www.euronews.com/my-europe/2026/02/03/what-is-eu-inc-and-its-plan-to-make-european-businesses-borderless">What is EU-INC and its plan to make European businesses borderless?</a></strong> (Euronews)
-Provides concrete details on the promised 48-hour digital incorporation framework that would unify Europe's fragmented market.</p>
 <p><strong><a href="https://www.impactloop.com/artikel/founders-investors-hail-eu-inc-name-drop-at-davos-a-very-strong-signal">EU unveils EU‑Inc at Davos, sending 'very strong signal' to founders and investors</a></strong> (Impact Loop)
-Captures founder and investor reactions to the Davos announcement, highlighting the startup community's enthusiasm for the single rulebook approach.</p>
-<p><strong><a href="https://therecursive.com/eu-inc-was-officially-confirmed-von-der-layen-davos-what-that-means/">EU Inc Is Confirmed. What That Means?</a></strong> (The Recursive)
-Analyzes the implications of von der Leyen's official confirmation for the CEE startup ecosystem specifically.</p>
+Captures founder and investor reactions to von der Leyen's Davos announcement, emphasizing the symbolic importance of the high-profile endorsement.</p>
+<p><strong><a href="https://www.euronews.com/my-europe/2026/02/03/what-is-eu-inc-and-its-plan-to-make-european-businesses-borderless">What is EU-INC and its plan to make European businesses borderless?</a></strong> (Euronews)
+Provides concrete details including the proposed 48-hour digital incorporation framework to unify Europe's fragmented market.</p>
 <p><strong><a href="https://sciencebusiness.net/news/start-ups/momentum-builds-eu-wide-company-status">Momentum builds for EU-wide company status</a></strong> (Science Business)
-Examines the broader policy momentum behind EU-wide company structures amid Europe's push to retain AI talent.</p>
+Goes beyond the announcement to discuss implementation challenges, mentioning targeted tax incentives and labor reform as necessary changes.</p>
 <hr />]]></description>
   </item>
 </channel>
