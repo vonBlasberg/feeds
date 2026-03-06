@@ -5,7 +5,7 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 06 Mar 2026 14:01:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 14:25:06 +0000</lastBuildDate>
   <item>
     <title>EU INC | 2026-W10</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:dcfdeb14</guid>
@@ -24,8 +24,8 @@
   </item>
   <item>
     <title>EU INC | 2026-W09</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W09:93f839c2</guid>
-    <pubDate>Mon, 23 Feb 2026 05:02:19 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W09:ffcd8f64</guid>
+    <pubDate>Fri, 06 Mar 2026 14:24:59 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -35,88 +35,19 @@
   li { margin-bottom: 8px; }
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
-<h2>📊 eu-inc Digest (2026-W09)</h2>
-<p><strong>Scanned:</strong> 148 items | <strong>New relevant:</strong> 62 | <strong>Cost:</strong> $0</p>
-<h3>📋 Executive Summary</h3>
-<p><strong>Sources:</strong> exa: 31,brave: 22,hackernews: 9,</p>
-<p><strong>Key Developments:</strong></p>
-<p>---### 🔥 Top Findings</p>
-<ol>
-<li>
-<p><strong>EU-INC and Europe’s 28th Regime</strong> (exa)
-   ...
-   → <a href="https://thepaypers.com/fintech/expert-views/eu-inc-europes-28th-regime-and-the-new-corporate-standard">Link</a></p>
-</li>
-<li>
-<p><strong>InvestEU by the European Commission</strong> (exa)
-   ...
-   → <a href="https://eic.ec.europa.eu/investeu-european-commission_en">Link</a></p>
-</li>
-<li>
-<p><strong>EU Inc 
-                              Follow 
-                              Already Following 
-                              Unfollow</strong> (exa)
-   ...
-   → <a href="https://tech.eu/tag/eu-inc/">Link</a></p>
-</li>
-<li>
-<p><strong>A Rewind on EU-INC</strong> (exa)
-   ...
-   → <a href="https://www.impacteurope.net/insights/rewind-eu-inc">Link</a></p>
-</li>
-<li>
-<p><strong>European Commission launches EU Inc to simplify cross-border growth</strong> (exa)
-   ...
-   → <a href="https://bits-chips.com/article/european-commission-launches-eu-inc-to-simplify-cross-border-growth/">Link</a></p>
-</li>
-</ol>
-<h3>💬 Community Discussion (9 new)</h3>
+<h2>eu-inc Weekly | 2026-W09</h2>
+<h3>New This Week</h3>
+<p><strong><a href="https://www.euronews.com/my-europe/2026/02/04/eu-inc-brussels-plan-for-a-single-company-law-across-europe">EU Inc: Brussels' plan for a single company law across Europe</a></strong> (Euronews)
+Commission now targets parliamentary approval by end of March with first EU-INC companies launching in 2027.</p>
+<h3>Radar</h3>
 <ul>
-<li>
-<p>[hackernews] EU-INC Mentioned in Von Der Leyen Davos Speech (2pts,0💬)
-  → <a href="https://ec.europa.eu/commission/presscorner/detail/en/speech_26_150">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU inc: a new European company structure (93pts,1💬)
-  → <a href="https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU-Inc: An API-first corporate structure as alternative to Delaware C-Corps (4pts,2💬)
-  → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU Inc needs your help (3pts,0💬)
-  → <a href="https://twitter.com/andreasklinger/status/1942960257652633840">Link</a></p>
-</li>
-<li>
-<p>[hackernews] The EU-Inc Policy Proposal (3pts,0💬)
-  → <a href="https://proposal.eu-inc.org/14d076fd79c581199761dd7e8b020774?v=14d076fd79c58146b048000caeed686a">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU Inc: A Vision for a Unified European Corporate Structure (4pts,2💬)
-  → <a href="https://www.orrick.com/en/tech-studio/insights/EU-Inc-A-Vision-for-a-Unified-European-Corporate-Structure">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU Inc – Sign the petition to create a pan-European startup entity (3pts,0💬)
-  → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p>[hackernews] Let's unite the startup ecosystem in Europe with a standardized ‘EU Inc' (15pts,4💬)
-  → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p>[hackernews] Why EU Inc. Failed: Europe's Fumbled Corporate Law Reform for Startups (2pts,0💬)
-  → <a href="https://dominikhermle.substack.com/p/why-did-eu-inc-fail">Link</a></p>
-</li>
-</ul>
-<hr />
-<p><em>Next scan: monday</em> | <em>synthesis.md updated</em> | Reply `/irrelevant N` to mark items</p>]]></description>
+<li>Parliamentary timeline accelerated: just weeks remaining for approval process if March target holds</li>
+</ul>]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W08</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W08:7b8be207</guid>
-    <pubDate>Mon, 16 Feb 2026 05:03:55 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W08:0e625486</guid>
+    <pubDate>Fri, 06 Mar 2026 14:23:55 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -126,103 +57,13 @@
   li { margin-bottom: 8px; }
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
-<h2>📊 eu-inc Digest (2026-W08)</h2>
-<p><strong>Scanned:</strong> 99 items | <strong>New relevant:</strong> 48 | <strong>Cost:</strong> $0</p>
-<h3>📋 Executive Summary</h3>
-<p><strong>Sources:</strong> exa: 20,brave: 19,hackernews: 9,</p>
-<p><strong>Key Developments:</strong>
-- The European Commission officially launched EU-INC at Davos, with Ursula von der Leyen announcing the "28th regime" as a new pan-European company structure that allows startups to incorporate digitally within 48 hours across all EU member states</p>
-<ul>
-<li>
-<p>EU-INC represents a direct response to the grassroots petition campaign that gathered over 13,000 signatures from founders and investors, demonstrating how industry pressure successfully influenced policy at the highest levels</p>
-</li>
-<li>
-<p>The proposal creates an optional legal framework sitting alongside existing national structures, designed to rival Delaware's corporate advantages by offering standardized rules, streamlined stock options, and API-first incorporation processes</p>
-</li>
-<li>
-<p>Key implementation details emerged showing EU-INC will enable fully digital incorporation in any member state within two days, with harmonized legal documentation and cross-border employment capabilities to address Europe's fragmented startup ecosystem</p>
-</li>
-<li>
-<p>Industry reaction reveals both optimism about finally having a unified European corporate structure and concerns that typical EU bureaucratic complexity could undermine the intended simplicity, with comparisons to successful models like Delaware Inc and Stripe Atlas</p>
-</li>
-<li>
-<p>The initiative signals Europe's urgent push for startup ecosystem independence and competitiveness, positioning EU-INC as a strategic tool to retain innovative companies that might otherwise relocate to more business-friendly jurisdictions</p>
-</li>
-</ul>
-<p>---### 🔥 Top Findings</p>
-<ol>
-<li>
-<p><strong>European Commission launches EU Inc to simplify cross-border growth</strong> (exa)
-   ...
-   → <a href="https://bits-chips.com/article/european-commission-launches-eu-inc-to-simplify-cross-border-growth/">Link</a></p>
-</li>
-<li>
-<p><strong>European Commission unveils EU Inc. plan for pan-EU startups</strong> (exa)
-   ...
-   → <a href="https://thepaypers.com/regulations/news/european-commission-unveils-eu-inc-plan-for-pan-eu-startups">Link</a></p>
-</li>
-<li>
-<p><strong>The EU Inc. is coming.</strong> (exa)
-   ...
-   → <a href="https://euincformation.com/">Link</a></p>
-</li>
-<li>
-<p><strong>EU-INC: A new corporate regime for Europe - Philippe &amp; Partners</strong> (exa)
-   ...
-   → <a href="https://philippelaw.eu/en/eu-inc-a-new-corporate-regime-for-europe/">Link</a></p>
-</li>
-<li>
-<p><strong>A Rewind on EU-INC - Impact Europe</strong> (exa)
-   ...
-   → <a href="https://www.impacteurope.net/insights/rewind-eu-inc">Link</a></p>
-</li>
-</ol>
-<h3>💬 Community Discussion (9 new)</h3>
-<ul>
-<li>
-<p>[hackernews] EU-INC Mentioned in Von Der Leyen Davos Speech (2pts,0💬)
-  → <a href="https://ec.europa.eu/commission/presscorner/detail/en/speech_26_150">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU inc: a new European company structure (93pts,1💬)
-  → <a href="https://ec.europa.eu/commission/presscorner/detail/da/speech_26_150">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU-Inc: An API-first corporate structure as alternative to Delaware C-Corps (4pts,2💬)
-  → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU Inc needs your help (3pts,0💬)
-  → <a href="https://twitter.com/andreasklinger/status/1942960257652633840">Link</a></p>
-</li>
-<li>
-<p>[hackernews] The EU-Inc Policy Proposal (3pts,0💬)
-  → <a href="https://proposal.eu-inc.org/14d076fd79c581199761dd7e8b020774?v=14d076fd79c58146b048000caeed686a">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU Inc: A Vision for a Unified European Corporate Structure (4pts,2💬)
-  → <a href="https://www.orrick.com/en/tech-studio/insights/EU-Inc-A-Vision-for-a-Unified-European-Corporate-Structure">Link</a></p>
-</li>
-<li>
-<p>[hackernews] EU Inc – Sign the petition to create a pan-European startup entity (3pts,0💬)
-  → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p>[hackernews] Let's unite the startup ecosystem in Europe with a standardized ‘EU Inc' (15pts,4💬)
-  → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p>[hackernews] Why EU Inc. Failed: Europe's Fumbled Corporate Law Reform for Startups (2pts,0💬)
-  → <a href="https://dominikhermle.substack.com/p/why-did-eu-inc-fail">Link</a></p>
-</li>
-</ul>
-<hr />
-<p><em>Next scan: monday</em> | <em>synthesis.md updated</em> | Reply `/irrelevant N` to mark items</p>]]></description>
+<h2>eu-inc Weekly | 2026-W08</h2>
+<p>Quiet week. No new policy developments, stakeholder moves, or substantive analysis beyond what's already tracked. 34 items scanned, all matched existing knowledge.</p>]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W07</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W07:7e562e5a</guid>
-    <pubDate>Mon, 09 Feb 2026 05:54:24 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W07:004d71eb</guid>
+    <pubDate>Fri, 06 Mar 2026 14:22:36 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -232,64 +73,13 @@
   li { margin-bottom: 8px; }
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
-<h2>📊 eu-inc Digest (2026-W07)</h2>
-<p><strong>Scanned:</strong> 54 items | <strong>New relevant:</strong> 14 | <strong>Cost:</strong> $0</p>
-<h3>📋 Executive Summary</h3>
-<p><strong>Sources:</strong> brave: 7,exa: 7,</p>
-<p><strong>Key Developments:</strong>
-- The European Commission officially announced EU-INC at Davos, a new pan-European company structure that would allow startups to incorporate and operate across all EU member states under a single set of rules, addressing the current fragmentation of 27 different national corporate law regimes</p>
-<ul>
-<li>
-<p>The proposal includes a 48-hour digital incorporation framework designed to streamline business formation and eliminate the current barriers that force companies to navigate multiple legal systems when scaling across Europe</p>
-</li>
-<li>
-<p>EU-INC represents the long-awaited "28th regime" that would sit alongside existing national company structures, giving entrepreneurs the option to choose a truly European legal entity from the outset rather than having to establish subsidiaries in each country</p>
-</li>
-<li>
-<p>The announcement has generated significant momentum among founders and investors who view it as a "very strong signal" from EU leadership about prioritizing startup ecosystem development and European competitiveness in the global market</p>
-</li>
-<li>
-<p>Implementation details remain limited, with reports indicating that EU-INC will not initially include an EU-wide company register, suggesting a phased rollout approach that may preserve some aspects of national oversight</p>
-</li>
-<li>
-<p>The initiative is positioned as part of broader European efforts to retain innovative companies and talent within the bloc through targeted reforms, amid concerns about brain drain to more business-friendly jurisdictions</p>
-</li>
-</ul>
-<p>---### 🔥 Top Findings</p>
-<ol>
-<li>
-<p><strong>EU–INC — One Europe. One Standard. — Pan-European legal entity.</strong> (brave)
-   EU–INC is <strong>a proposal for a pan-European standardized legal entity to unlock pan-European startup scaling</strong>....
-   → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p><strong>EU Inc. – The Truly European Company Structure</strong> (exa)
-   ...
-   → <a href="https://natlawreview.com/article/eu-inc-truly-european-company-structure?amp=">Link</a></p>
-</li>
-<li>
-<p><strong>EU–INC — One Europe. One Standard. — Pan-European legal entity.</strong> (brave)
-   EU–INC is <strong>a proposal for a pan-European standardized legal entity to unlock pan-European startup scaling</strong>....
-   → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p><strong>EU Inc won't include EU-wide company register</strong> (exa)
-   ...
-   → <a href="https://www.euractiv.com/news/eu-inc-wont-include-eu-wide-company-register/">Link</a></p>
-</li>
-<li>
-<p><strong>What is EU-INC and its plan to make European businesses borderless?</strong> (exa)
-   ...
-   → <a href="https://www.euronews.com/my-europe/2026/02/03/what-is-eu-inc-and-its-plan-to-make-european-businesses-borderless">Link</a></p>
-</li>
-</ol>
-<hr />
-<p><em>Next scan: monday</em> | <em>synthesis.md updated</em> | Reply `/irrelevant N` to mark items</p>]]></description>
+<h2>eu-inc Weekly | 2026-W07</h2>
+<p>Quiet week. No new policy developments, stakeholder moves, or substantive analysis beyond what's already tracked. 1 item scanned, matched existing knowledge.</p>]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W06</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W06:d21dde4d</guid>
-    <pubDate>Thu, 05 Feb 2026 21:21:23 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W06:91da25ee</guid>
+    <pubDate>Fri, 06 Mar 2026 14:21:40 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -299,59 +89,8 @@
   li { margin-bottom: 8px; }
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
-<h2>📊 eu-inc Digest (2026-W06)</h2>
-<p><strong>Scanned:</strong> 13 items | <strong>New relevant:</strong> 13 | <strong>Cost:</strong> $0</p>
-<h3>📋 Executive Summary</h3>
-<p><strong>Sources:</strong> exa: 7,brave: 6,</p>
-<p><strong>Key Developments:</strong>
-- The European Commission officially unveiled EU-INC at Davos, a new "28th regime" company structure that would allow startups to incorporate and operate across all EU member states under unified rules, addressing the current fragmentation of 27 different national corporate law systems</p>
-<ul>
-<li>
-<p>President von der Leyen announced the initiative promises 48-hour digital incorporation, positioning it as a cornerstone of the broader Investment Union strategy to boost European competitiveness and retain innovative companies within the bloc</p>
-</li>
-<li>
-<p>The proposal aims to solve the scaling problem that forces European startups to navigate complex multi-jurisdictional compliance when expanding, unlike their US counterparts who can operate under a single federal framework</p>
-</li>
-<li>
-<p>Industry reaction has been positive, with observers calling it a "very strong signal" to founders and investors, though practical implementation details remain unclear and no EU-wide company register is planned at this stage</p>
-</li>
-<li>
-<p>The announcement comes amid broader European concerns about losing AI talent and innovative companies to other regions, with EU-INC seen as part of targeted reforms including tax incentives and labor market changes to improve competitiveness</p>
-</li>
-<li>
-<p>Despite the momentum, significant regulatory and political hurdles remain as the initiative will require coordination across member states with deeply entrenched national corporate law traditions and varying business cultures</p>
-</li>
-</ul>
-<p>---### 🔥 Top Findings</p>
-<ol>
-<li>
-<p><strong>EU Inc. – The Truly European Company Structure</strong> (exa)
-   ...
-   → <a href="https://natlawreview.com/article/eu-inc-truly-european-company-structure?amp=">Link</a></p>
-</li>
-<li>
-<p><strong>EU–INC — One Europe. One Standard. — Pan-European legal entity.</strong> (brave)
-   EU–INC is <strong>a proposal for a pan-European standardized legal entity to unlock pan-European startup scaling</strong>....
-   → <a href="https://www.eu-inc.org/">Link</a></p>
-</li>
-<li>
-<p><strong>EU Inc won't include EU-wide company register</strong> (exa)
-   ...
-   → <a href="https://www.euractiv.com/news/eu-inc-wont-include-eu-wide-company-register/">Link</a></p>
-</li>
-<li>
-<p><strong>What is EU-INC and its plan to make European businesses borderless?</strong> (exa)
-   ...
-   → <a href="https://www.euronews.com/my-europe/2026/02/03/what-is-eu-inc-and-its-plan-to-make-european-businesses-borderless">Link</a></p>
-</li>
-<li>
-<p><strong>The European Commission launches EU Inc., the long-awaited ‘28th regime’ for startups</strong> (exa)
-   ...
-   → <a href="https://tech.eu/2026/01/20/the-european-commission-launches-eu-inc-the-long-awaited-28th-regime-for-startups/">Link</a></p>
-</li>
-</ol>
-<hr />
-<p><em>Next scan: monday</em> | <em>synthesis.md updated</em> | Reply `/irrelevant N` to mark items</p>]]></description>
+<h2>eu-inc Weekly | 2026-W06</h2>
+<p>Quiet week. No new policy developments, stakeholder moves, or substantive analysis beyond what's already tracked. 13 items scanned, all matched existing knowledge around the Davos announcement and immediate industry reaction.</p>]]></description>
   </item>
 </channel>
 </rss>
