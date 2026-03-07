@@ -5,11 +5,11 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 07 Mar 2026 12:15:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 12:20:23 +0000</lastBuildDate>
   <item>
     <title>EU INC | 2026-W10</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:cc7f81dc</guid>
-    <pubDate>Sat, 07 Mar 2026 06:44:38 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:e1b35cb9</guid>
+    <pubDate>Sat, 07 Mar 2026 12:20:18 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -20,20 +20,11 @@
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
 <h2>eu-inc Weekly | 2026-W10</h2>
-<p>A quiet week for EU-Inc with no major legislative developments, though the proposal continues to generate discussion around tax competition implications for smaller member states.</p>
-<h3>This Week</h3>
-<p><strong><a href="https://es.euronews.com/my-europe/2026/02/03/que-es-eu-inc-cual-es-su-plan-para-que-las-empresas-europeas-operen-sin-fronteras">¿Qué es EU-INC y cuál es su plan para que las empresas europeas operen sin fronteras?</a></strong> (Euronews ES)
-Euronews Spanish-language explainer covering von der Leyen's EU-INC announcement and the digital incorporation framework.</p>
-<p><strong><a href="https://x.com/kolokasi_sotira/status/2030053429830148194">@kolokasi_sotira on X</a></strong> (X/Twitter)
-Commentary framing the 28th jurisdiction as eroding the "low taxes moat" that smaller member states rely on to attract companies.</p>
-<h3>New Arguments</h3>
-<ul>
-<li>❌ The 28th jurisdiction removes the competitive advantage of low-tax member states, undermining their economic model (@kolokasi_sotira)</li>
-</ul>
-<h3>Radar</h3>
-<ul>
-<li>🌍 Cyprus-linked account engaging with EU-Inc debate, raising small-state tax competition concerns</li>
-</ul>]]></description>
+<p>No new signal arrived this week; coverage remained anchored to the same foundational explainers and startup advocacy that dominated January and February.</p>
+<p><a href="https://www.euractiv.com/news/five-ways-to-an-eu-inc/">Five ways to an EU Inc</a> (Euractiv) -- maps the five legal-instrument options (regulation, directive, etc.) and explains why the choice of pathway could determine whether the reform succeeds or stalls in Council.</p>
+<p>💡 <a href="https://www.europeanbusinessreview.com/eu-inc-may-solve-legal-issues-but-scaling-across-borders-still-depends-on-how-teams-work/">EU Inc. May Solve Legal Issues, But Scaling Across Borders Still Depends on How Teams Work</a> (European Business Review) -- argues that a unified incorporation structure removes a visible barrier but leaves cross-border HR, payroll, and culture friction entirely untouched.</p>
+<p><a href="https://www.boersen-zeitung.de/unternehmen-branchen/startups-fordern-verordnung-zur-eu-inc">Startups fordern Verordnung zur EU Inc</a> (Börsen-Zeitung) -- German startup voices specifically demand a regulation (not a directive) and flag capital-gains exit taxes triggered by cross-border founder relocations as a critical unresolved problem.</p>
+<p><a href="https://www.fieldfisher.com/en/insights/eu-inc-towards-a-single-european-company-framework">EU Inc.: towards a single European company framework?</a> (Fieldfisher) -- law-firm primer noting that Ireland is pushing back on including tax and labour harmonisation in the EU Inc. scope, consistent with earlier reporting from the Irish Business Post.</p>]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W09</title>
