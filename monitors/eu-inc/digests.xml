@@ -5,11 +5,11 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 07 Mar 2026 14:36:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 14:45:03 +0000</lastBuildDate>
   <item>
     <title>EU INC | 2026-W10</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:e1b35cb9</guid>
-    <pubDate>Sat, 07 Mar 2026 12:20:18 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:765db2ff</guid>
+    <pubDate>Sat, 07 Mar 2026 14:45:03 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -20,11 +20,21 @@
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
 <h2>eu-inc Weekly | 2026-W10</h2>
-<p>No new signal arrived this week; coverage remained anchored to the same foundational explainers and startup advocacy that dominated January and February.</p>
-<p><a href="https://www.euractiv.com/news/five-ways-to-an-eu-inc/">Five ways to an EU Inc</a> (Euractiv) -- maps the five legal-instrument options (regulation, directive, etc.) and explains why the choice of pathway could determine whether the reform succeeds or stalls in Council.</p>
-<p>💡 <a href="https://www.europeanbusinessreview.com/eu-inc-may-solve-legal-issues-but-scaling-across-borders-still-depends-on-how-teams-work/">EU Inc. May Solve Legal Issues, But Scaling Across Borders Still Depends on How Teams Work</a> (European Business Review) -- argues that a unified incorporation structure removes a visible barrier but leaves cross-border HR, payroll, and culture friction entirely untouched.</p>
-<p><a href="https://www.boersen-zeitung.de/unternehmen-branchen/startups-fordern-verordnung-zur-eu-inc">Startups fordern Verordnung zur EU Inc</a> (Börsen-Zeitung) -- German startup voices specifically demand a regulation (not a directive) and flag capital-gains exit taxes triggered by cross-border founder relocations as a critical unresolved problem.</p>
-<p><a href="https://www.fieldfisher.com/en/insights/eu-inc-towards-a-single-european-company-framework">EU Inc.: towards a single European company framework?</a> (Fieldfisher) -- law-firm primer noting that Ireland is pushing back on including tax and labour harmonisation in the EU Inc. scope, consistent with earlier reporting from the Irish Business Post.</p>]]></description>
+<p>A quiet week on the EU Inc front -- no major legislative moves, but the analytical layer thickened as law firms and business press caught up to the January Davos moment.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://www.mcdermottlaw.com/insights/eu-inc-the-truly-european-company-structure/">EU Inc. -- The Truly European Company Structure</a></strong> (McDermott Will &amp; Emery) -- A major international law firm publishes its first detailed client briefing on EU Inc., framing von der Leyen's January 20 Davos announcement as a historic turning point.</p>
+<p><strong><a href="https://www.europeanbusinessreview.com/eu-inc-may-solve-legal-issues-but-scaling-across-borders-still-depends-on-how-teams-work/">EU Inc. May Solve Legal Issues, But Scaling Across Borders Still Depends on How Teams Work</a></strong> (European Business Review) -- Argues that legal harmonization is necessary but not sufficient, as operational and HR complexity across member states persists regardless of corporate structure.</p>
+<p><strong><a href="https://www.boersen-zeitung.de/unternehmen-branchen/startups-fordern-verordnung-zur-eu-inc">Startups fordern Verordnung zur EU Inc</a></strong> (Börsen-Zeitung) -- German startup community pushes specifically for a regulation (directly applicable) rather than a directive, and flags capital gains tax triggers when founders relocate between EU countries.</p>
+<p><strong><a href="https://www.euronews.com/my-europe/2026/02/03/what-is-eu-inc-and-its-plan-to-make-european-businesses-borderless">What is EU-INC and its plan to make European businesses borderless?</a></strong> (Euronews) -- Clean explainer piece useful for briefing newcomers to the topic.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>❌ A unified corporate form does not remove the underlying operational fragmentation -- tax, employment law, and team management remain jurisdiction-specific (European Business Review)</li>
+<li>❌ Several EU member states impose capital gains tax when a founder relocates their company to another EU country, a friction EU Inc. would not automatically resolve (Börsen-Zeitung)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>🧑 McDermott Will &amp; Emery and Orrick both publish substantive EU Inc. briefings this cycle -- signals the major transatlantic law firm tier is now actively advising clients on the proposal.</li>
+</ul>]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W09</title>
