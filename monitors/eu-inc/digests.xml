@@ -5,11 +5,11 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 09 Mar 2026 06:28:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 06:46:04 +0000</lastBuildDate>
   <item>
     <title>EU INC | 2026-W11</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W11:2b0f9327</guid>
-    <pubDate>Mon, 09 Mar 2026 06:28:04 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W11:88571427</guid>
+    <pubDate>Mon, 09 Mar 2026 06:45:54 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -20,13 +20,21 @@
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
 <h2>eu-inc Weekly | 2026-W11</h2>
-<p>No new items surfaced in the delta analysis this week; the queue reflects recirculated background on the 28th regime and adjacent capital-market moves rather than fresh developments.</p>
+<p>The EIB released survey data showing EU firms find intra-bloc fragmentation more burdensome than US tariffs, and the Commission opened a consultation on private equity exit routes -- together framing the week as empirical and procedural groundwork for capital-markets reform.</p>
 <h3>This Week</h3>
-<p><strong><a href="https://en.wikipedia.org/wiki/28th_regime">28th regime - Wikipedia</a></strong> (Wikipedia) -- The most comprehensive public summary of the EU Inc legislative timeline, including the July 2025 Commission proposal and current Council progress.</p>
-<p><strong><a href="https://www.diariotecnologia.es/posts/en-qu-consiste-eu-inc-el-ambicioso-plan-de-la-unin-europea-para-disparar-las-startups-de-la-regin">En qué consiste EU Inc</a></strong> (Diario Tecnología) -- Spanish-language explainer covering the structural gaps -- fragmented incorporation rules, thin exit markets -- that EU Inc is designed to close.</p>
-<p><strong><a href="https://www.regulationtomorrow.com/2026/03/european-commission-launches-consultation-on-private-equity-exits/">European Commission launches consultation on private equity exits</a></strong> (Global Regulation Tomorrow) -- The Commission is actively consulting on improving PE exit pathways, a parallel track to EU Inc that directly affects late-stage startup liquidity.</p>
-<p><strong><a href="https://www.reuters.com/business/eu-firms-coping-well-with-us-tariffs-face-obstacles-within-bloc-eib-survey-shows-2026-03-03/">EU firms coping well with US tariffs, face obstacles within bloc, EIB survey shows</a></strong> (Reuters) -- EIB survey data quantifying internal single-market fragmentation -- the exact problem EU Inc's 28th regime is meant to reduce for company formation and cross-border scaling.</p>
-<p><strong><a href="https://www.worldenergynews.com/news/what-the-buy-european-law-771955">What's In The EU Buy-European Law?</a></strong> (World Energy News) -- The Industrial Accelerator Act uses public procurement preferences to anchor demand for EU-made goods, providing complementary industrial policy context for the startup-formation push.</p>]]></description>
+<p><strong><a href="https://en.wikipedia.org/wiki/28th_regime">28th regime - Wikipedia</a></strong> (brave) -- Covers the initiative's legislative arc from the January 2025 von der Leyen project group through the July 2025 Commission proposal, useful as a compact timeline reference.</p>
+<p><strong><a href="https://www.diariotecnologia.es/posts/en-qu-consiste-eu-inc-el-ambicioso-plan-de-la-unin-europea-para-disparar-las-startups-de-la-regin">En qué consiste EU Inc: el ambicioso plan de la Unión Europea para disparar las startups</a></strong> (brave) -- Spanish-language primer contextualizing EU Inc for Latin American tech audiences and explaining its gap-closing rationale around talent, capital, and incorporation friction.</p>
+<p><strong><a href="https://www.worldenergynews.com/news/what-the-buy-european-law-771955">What's In The EU Buy-European Law?</a></strong> (exa) -- The Industrial Accelerator Act's public procurement preference clause operates as a parallel industrial-policy lever alongside EU Inc's corporate-law reform.</p>
+<p><strong><a href="https://docs.igrant.io/regulations/implementing-acts-registration-relying-parties/">Understand the EU Implementing Acts for Digital ID</a></strong> (exa) -- Commission Implementing Regulation 2025/848 establishes eIDAS 2.0 relying-party registration rules, relevant to EU Inc's ambition for digital-first cross-border company formation.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>✅ EIB survey data shows EU firms rate intra-bloc regulatory fragmentation as a bigger obstacle than US tariffs, providing fresh empirical grounding for EU Inc's single-statute value proposition (EIB via Reuters)</li>
+<li>✅ The Commission framed its private equity exits consultation around improving "access to capital for private companies," directly naming the growth-stage funding gap that EU Inc targets (European Commission via Global Regulation Tomorrow)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>📅 European Commission consultation on private equity exit routes is now open, with findings expected to feed into the Savings and Investments Union framework that underpins EU Inc's capital-access goals.</li>
+</ul>]]></description>
   </item>
   <item>
     <title>EU INC | 2026-W10</title>
