@@ -5,11 +5,11 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 09 Mar 2026 06:46:04 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 06:41:58 +0000</lastBuildDate>
   <item>
     <title>EU INC | 2026-W11</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W11:88571427</guid>
-    <pubDate>Mon, 09 Mar 2026 06:45:54 +0000</pubDate>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W11:0fc0f53f</guid>
+    <pubDate>Tue, 10 Mar 2026 06:41:17 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -20,20 +20,19 @@
   hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
 </style>
 <h2>eu-inc Weekly | 2026-W11</h2>
-<p>The EIB released survey data showing EU firms find intra-bloc fragmentation more burdensome than US tariffs, and the Commission opened a consultation on private equity exit routes -- together framing the week as empirical and procedural groundwork for capital-markets reform.</p>
+<p>A week of institutional weight and new friction: Bruegel extended the 28th regime concept beyond startup incorporation into capital markets, while a new compliance counter-argument emerged challenging whether EU-INC actually reduces the regulatory burden companies face in practice.</p>
 <h3>This Week</h3>
-<p><strong><a href="https://en.wikipedia.org/wiki/28th_regime">28th regime - Wikipedia</a></strong> (brave) -- Covers the initiative's legislative arc from the January 2025 von der Leyen project group through the July 2025 Commission proposal, useful as a compact timeline reference.</p>
-<p><strong><a href="https://www.diariotecnologia.es/posts/en-qu-consiste-eu-inc-el-ambicioso-plan-de-la-unin-europea-para-disparar-las-startups-de-la-regin">En qué consiste EU Inc: el ambicioso plan de la Unión Europea para disparar las startups</a></strong> (brave) -- Spanish-language primer contextualizing EU Inc for Latin American tech audiences and explaining its gap-closing rationale around talent, capital, and incorporation friction.</p>
-<p><strong><a href="https://www.worldenergynews.com/news/what-the-buy-european-law-771955">What's In The EU Buy-European Law?</a></strong> (exa) -- The Industrial Accelerator Act's public procurement preference clause operates as a parallel industrial-policy lever alongside EU Inc's corporate-law reform.</p>
-<p><strong><a href="https://docs.igrant.io/regulations/implementing-acts-registration-relying-parties/">Understand the EU Implementing Acts for Digital ID</a></strong> (exa) -- Commission Implementing Regulation 2025/848 establishes eIDAS 2.0 relying-party registration rules, relevant to EU Inc's ambition for digital-first cross-border company formation.</p>
+<p><strong><a href="https://www.europeanlawblog.eu/pub/ha28jgs7">What is the 28th legal regime? Where have I seen it before?</a></strong> (European Law Blog) -- Scholarly analysis situating the 28th regime within the history of EU harmonization attempts, offering the clearest academic framing of how this initiative compares to past single-market projects.</p>
+<p><strong><a href="https://ebn.eu/wp-content/uploads/2025/10/EBN-Position-Paper_The-28th-Regime-A-Strategic-Necessity-for-Scaling-European-Innovation-1.pdf">The 28th Regime - A strategic necessity for scaling European Innovation</a></strong> (EBN) -- Position paper from the European Business and Innovation Centres network, which supports 30,000+ startups and SMEs annually, making it the broadest practitioner-network endorsement of the regime yet published.</p>
 <h3>New Arguments</h3>
 <ul>
-<li>✅ EIB survey data shows EU firms rate intra-bloc regulatory fragmentation as a bigger obstacle than US tariffs, providing fresh empirical grounding for EU Inc's single-statute value proposition (EIB via Reuters)</li>
-<li>✅ The Commission framed its private equity exits consultation around improving "access to capital for private companies," directly naming the growth-stage funding gap that EU Inc targets (European Commission via Global Regulation Tomorrow)</li>
+<li>✅ Extending the 28th regime via a building-block approach to capital markets -- not just startup incorporation -- would unlock deeper EU financial integration (Rebecca Christie, Bruegel: <a href="https://www.bruegel.org/first-glance/28th-regimes-help-europes-capital-markets">28th regimes to help Europe's capital markets</a>)</li>
+<li>❌ EU-INC simplifies incorporation but leaves companies exposed to thousands of pages of evolving legal requirements across 27 jurisdictions, including the EU AI Act, so the compliance burden is not actually solved (@firstaimovers)</li>
 </ul>
 <h3>Radar</h3>
 <ul>
-<li>📅 European Commission consultation on private equity exit routes is now open, with findings expected to feed into the Savings and Investments Union framework that underpins EU Inc's capital-access goals.</li>
+<li>🧑 Robin Wauters identified as an EU-Inc ecosystem builder in a <a href="https://www.youtube.com/watch?v=doCng8RSd0M">YouTube interview</a> -- first practitioner voice from the EU-Inc advocacy side to appear in the knowledge base</li>
+<li>📡 The Economist published a bullish piece on European tech without mentioning EU-INC, signaling the concept has not yet broken through to top-tier general business press (@SebJohnsonUK)</li>
 </ul>]]></description>
   </item>
   <item>
