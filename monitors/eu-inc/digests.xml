@@ -5,7 +5,38 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 10 Mar 2026 07:40:03 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 07:50:33 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W12</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W12:cb3300e0</guid>
+    <pubDate>Mon, 16 Mar 2026 06:27:11 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W12</h2>
+<p>The EU Inc draft's structural choice leaked via Euractiv this week -- opting for a regulation rather than a directive -- while the startup community escalated pressure on the Commission not to dilute the 28th regime before it reaches Parliament.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://www.euractiv.com/news/exclusive-eu-inc-draft-shoots-for-a-regulation/">EXCLUSIVE: EU Inc draft shoots for a regulation</a></strong> (Euractiv) -- The most concrete leak yet: the draft takes the form of a regulation (directly applicable, no national transposition), and employee co-determination is governed by the law of the country where an EU Inc is registered.</p>
+<p><strong><a href="https://tech.eu/2026/03/13/eu-inc-campaign-warns-without-a-pan-european-founders-will-keep-choosing-delaware/">EU–INC campaign warns: Without a pan-European standard, founders will keep choosing Delaware</a></strong> (tech.eu) -- Europe's startup community formally warns the Commission that a watered-down proposal will fail to shift incorporation behavior away from US jurisdictions.</p>
+<p><strong><a href="https://www.trendingtopics.eu/eu-inc-ohne-notar/">EU Inc: Brüssel will flotte digitale Unternehmensgründung ohne Notartermin</a></strong> (trendingtopics.eu) -- Draft details include 48h fully online registration without a notary, but a key concession emerged: national courts retain jurisdiction for disputes rather than a new EU-wide fast-track system.</p>
+<p><strong><a href="https://bst-europe.eu/competitiveness-innovation/incubating-integration-regulatory-pilots-within-the-28th-regime/">Incubating Integration: Regulatory Pilots within the 28th Regime</a></strong> (bst-europe.eu) -- Analytical framing of EU Inc as a "regulatory pilot" -- a sandboxed opt-in layer that tests cross-border integration without requiring full harmonization of member-state law.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>✅ EU Inc is evidence that Brussels can deliver fast, founder-friendly simplification when there is political will -- the 48h online incorporation design refutes claims that EU-wide reform is inherently slow (<a href="https://trends.levif.be/opinions/cartes-blanches/eu-inc-prouve-que-leurope-peut-simplifier-mais-le-paysage-numerique-reste-a-la-traine/">trends.levif.be</a>)</li>
+<li>❌ Labour groups warn the voluntary regime creates a vehicle for companies to escape national worker-protection standards by re-registering under the EU Inc umbrella (<a href="https://www.malaymail.com/news/money/2026/03/13/eus-28th-regime-what-the-new-business-rulebook-means-for-companies/212360">Malay Mail</a>)</li>
+<li>❌ Retaining national courts for dispute resolution rather than creating a dedicated EU Inc tribunal risks fragmented legal outcomes for companies operating across multiple member states (<a href="https://www.trendingtopics.eu/eu-inc-ohne-notar/">trendingtopics.eu</a>)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>🌍 Southeast Asian mainstream business press (Malay Mail, Free Malaysia Today) independently covering EU Inc marks the first wave of non-European audience attention, suggesting the story is crossing into global SME and investment circles.</li>
+</ul>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W11</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W11:165dfce0</guid>
