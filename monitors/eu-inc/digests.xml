@@ -5,10 +5,44 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 16 Mar 2026 07:50:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 04:06:17 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W20</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W20:</guid>
+    <pubDate>Mon, 11 May 2026 04:06:17 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W20</h2>
+<p>The proposal's public consultation phase triggered the broadest week of coverage yet, pulling in mainstream financial press, organized labor, and academic legal critics all responding directly to the text of COM(2026) 321 final.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://www.economist.com/leaders/2026/05/07/europe-is-unshackling-business-but-not-enough">Europe is unshackling business. But not enough</a></strong> (The Economist) -- The Economist's editorial board frames EU deregulation including EU-Inc as meaningful but insufficient, the most prominent English-language outlet yet to engage substantively with the proposal's market implications.</p>
+<p><strong><a href="https://www.derstandard.at/consent/tcf/story/3000000317917/die-eu-inc-soll-start-ups-das-leben-erleichtern-doch-sie-braucht-zumindest-drei-aenderungen">Die EU Inc. soll Start-ups das Leben erleichtern -- doch sie braucht zumindest drei Änderungen</a></strong> (Der Standard) -- Austrian business outlet endorses the proposal in principle but lays out three concrete structural changes it argues are necessary before the regulation can achieve its stated goals.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>✅ Regulatory fragmentation across the EU functions as a compounding "hidden growth tax" that suppresses scale-up velocity regardless of individual national rules (Startuprad.io / Jörn Menninger)</li>
+<li>❌ COM(2026) 321 final is structurally flawed and risks functioning as a "Trojan Horse" that undermines single market cohesion by creating a parallel regime with inadequate worker and creditor safeguards (Oxford Business Law Blog)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>🧑 Arbeiterkammer Wien (Austrian Chamber of Labour) has entered the debate -- the first major organized labor voice to engage directly with the Commission proposal text</li>
+<li>🧑 Roberta Angelilli confirmed as EP rapporteur for the 28th regime committee, per EUnews.it -- adding a named parliamentary lead to track</li>
+<li>🧑 FAZ (Frankfurter Allgemeine Zeitung) and Computerwoche (citing Simon Miller of Scalable Capital) bring EU-Inc into mainstream German-language financial and tech press for the first time</li>
+<li>📅 Public consultation on COM(2026) 321 final is now open, confirmed by Steuerkanzlei Hohlweg -- response deadline to monitor</li>
+<li>📅 Computerwoche reports an "Ende 2026" implementation timeline framing, earlier than most prior estimates</li>
+<li>🔗 EUnews.it surfaces a new concern: potential linkage between the 28th regime and the Multiannual Financial Framework (MFF) negotiations</li>
+<li>🌍 Austria now active on two fronts -- Arbeiterkammer (labor-critical) and Der Standard (reform-supportive) represent divergent domestic positions</li>
+</ul>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W12</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W12:cb3300e0</guid>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W12:</guid>
     <pubDate>Mon, 16 Mar 2026 06:27:11 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
@@ -39,7 +73,7 @@
   </item>
   <item>
     <title>EU INC | 2026-W11</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W11:165dfce0</guid>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W11:</guid>
     <pubDate>Tue, 10 Mar 2026 07:40:03 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
@@ -67,7 +101,7 @@
   </item>
   <item>
     <title>EU INC | 2026-W10</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:765db2ff</guid>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W10:</guid>
     <pubDate>Sat, 07 Mar 2026 14:45:03 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
@@ -97,7 +131,7 @@
   </item>
   <item>
     <title>EU INC | 2026-W09</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W09:4e126ea5</guid>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W09:</guid>
     <pubDate>Fri, 06 Mar 2026 17:55:27 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
@@ -112,7 +146,7 @@
   </item>
   <item>
     <title>EU INC | 2026-W08</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W08:0fe33a65</guid>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W08:</guid>
     <pubDate>Fri, 06 Mar 2026 17:52:23 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
@@ -127,7 +161,7 @@
   </item>
   <item>
     <title>EU INC | 2026-W07</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W07:e5ce9f71</guid>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W07:</guid>
     <pubDate>Fri, 06 Mar 2026 17:49:50 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
@@ -142,7 +176,7 @@
   </item>
   <item>
     <title>EU INC | 2026-W06</title>
-    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W06:4edd6d6d</guid>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W06:</guid>
     <pubDate>Fri, 06 Mar 2026 17:48:20 +0000</pubDate>
     <description><![CDATA[<style>
   a { color: #0066cc; text-decoration: none; }
