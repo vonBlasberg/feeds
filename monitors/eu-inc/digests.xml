@@ -5,7 +5,35 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 11 May 2026 04:06:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 04:07:44 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W21</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W21:</guid>
+    <pubDate>Mon, 18 May 2026 04:07:44 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W21</h2>
+<p>Legal legitimacy concerns took center stage this week, with multiple member state capitals reportedly commissioning independent legal opinions on whether the Commission's regulatory basis for EU Inc. holds up -- the first sign of formal governmental skepticism going beyond commentary -- while Ireland emerged as a new focal point from two distinct angles: competitive threat and labor politics.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://www.businesspost.ie/uncategorized/eu-inc-could-reshape-irelands-startup-edge/">EU Inc could reshape Ireland's startup edge</a></strong> (Business Post) -- Frames EU Inc. as a structural competitive threat to Ireland's position as the preferred EU domicile for startups and international headquarters.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>❌ Several EU member state capitals are demanding independent expert review of whether the Commission's legal wrangling on the regulatory basis for EU Inc. actually holds up, raising the prospect of legal challenge derailing the proposal (Euractiv)</li>
+<li>❌ Unrestricted access to capital markets under the EU Inc. framework creates unintended investor protection risks that the proposal currently fails to address (Oxford Law Blogs)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>🧑 Aodhán Ó Ríordáin (Irish Labour Party) enters the debate as a national politician formally warning that EU Inc. must not become a back door for circumventing stricter national labor protections -- the social dumping argument now has a named parliamentary voice</li>
+<li>🌍 Ireland engaging as a distinct geographic actor, with both mainstream business press and opposition politicians developing country-specific positions on the proposal</li>
+</ul>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W20</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W20:</guid>
