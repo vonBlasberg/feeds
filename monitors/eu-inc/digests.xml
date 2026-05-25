@@ -5,7 +5,39 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 18 May 2026 04:07:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 25 May 2026 04:06:31 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W22</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W22:</guid>
+    <pubDate>Mon, 25 May 2026 04:06:31 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W22</h2>
+<p>Two threads defined this week: US enterprise tech beginning to frame EU Inc as an inbound arbitrage opportunity, and a left-wing counter-narrative framing the proposal as corporate fast-tracking amid a cost-of-living crisis.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://x.com/roads2rome/status/2058576462756642878">The New Inbound Arbitrage: How Europe's 'EU Inc' Unlocks a €16T Market for US Enterprise Tech</a></strong> (x_twitter) -- First sustained framing of EU Inc as a US-to-Europe market-entry mechanism, positioning the single legal entity as a route into a €16T addressable market.</p>
+<p><strong><a href="https://profession-comptable.fr/soci%C3%A9t%C3%A9s/79973-societe-europeenne-eu-inc-28e-regime-proposition-de-la-commission-2.html">Société européenne "EU Inc." (28e régime) : proposition de la Commission</a></strong> (exa) -- French accounting professionals are now tracking the proposal under the "28th regime" framing, signaling uptake in the compliance and professional-services sector.</p>
+<p><strong><a href="https://www.computerworld.com/article/4175860/eu-moves-forward-on-5-8b-scale-up-fund-to-keep-startups-from-leaving.html">EU moves forward on $5.8B scale-up fund to keep startups from leaving</a></strong> (exa) -- The Commission's selection of EQT to manage a late-stage fund runs in parallel with EU Inc, together forming a two-track retention strategy for European startups.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>✅ Europe has more VC-backed startups than any other region yet only 331 unicorns versus 1,963 in the US -- EU Inc's single-entity, single-ruleset structure is the missing variable explaining the gap. (@EuroFounders)</li>
+<li>✅ EU Inc as a unified startup directive could accelerate the patent-to-company pipeline, particularly for deep-tech founders operating across German-speaking markets. (@BenniTanovic)</li>
+<li>❌ Recital 12 of the EU Inc proposal confirms that taxation remains entirely national -- 27 tax regimes persist, undermining the "one company for all of Europe" headline. (@EuroFounders)</li>
+<li>❌ Fast-tracking EU Inc while households face rising rents and food costs frames the proposal as prioritising corporate infrastructure over citizen welfare. (@Left_EU via @GuzmanLaetitia)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>🌍 Athens SMEs are being cited as an emerging engagement point, with the Athens-Greece-American Chamber tracking EU Inc alongside AI and India trade shifts. (@Levant_Intel)</li>
+<li>📅 PanatheneaFest in Athens is being flagged as a near-term event for founders to engage directly on EU Inc's trajectory. (@EuroFounders / @euinc_petition)</li>
+</ul>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W21</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W21:</guid>
