@@ -5,7 +5,39 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 25 May 2026 04:06:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 04:06:56 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W23</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W23:</guid>
+    <pubDate>Mon, 01 Jun 2026 04:06:56 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W23</h2>
+<p>The EU Inc / 28th regime package moved toward its first EU27 ministerial-level political test this week, with European trade unions formally registering opposition and Oxford academics raising structural concerns about insolvency law compatibility under a single supranational framework.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://blogs.law.ox.ac.uk/oblb/blog-post/2026/05/eu-inc-half-european-fully-digital-and-genuinely-innovative">The EU Inc -- Half European, Fully Digital, and Genuinely Innovative</a></strong> (Oxford Law Blogs) -- Solid design-logic overview of the proposal: a harmonised limited liability company built on flexibility and digital-first principles, explicitly positioned for startups and scale-ups.</p>
+<p><strong><a href="https://www.bruegel.org/analysis/how-secure-benefits-eu-wide-incorporation-regime">How to secure the benefits of an EU-wide incorporation regime</a></strong> (Bruegel) -- Bruegel examines what structural conditions must hold for the March 18 Commission proposal to actually deliver on its single-market ambitions.</p>
+<p><strong><a href="https://www.europeanbusinessreview.com/european-startups-building-transatlantic-growth-strategies/">European Startups Expanding Across the Atlantic</a></strong> (European Business Review) -- Uses the SE framework's well-documented failure (€120k minimum capital, no greenfield creation) as the baseline problem EU Inc is designed to solve.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>❌ A single insolvency framework will misfire across member states because creditor hierarchies and restructuring norms diverge too sharply at national level, making "one size" likely to fail many (Oxford Law Blogs, insolvency analysis)</li>
+<li>❌ The 28th regime should not proceed without explicit worker-rights safeguards embedded in the regulation itself (LPSK / ETUC, formal letter to Lithuanian Minister of Economy Edvinas Grikšas)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>📅 The Industrial Accelerator Act and 28th regime face their first formal political test at EU27 ministerial level, per ChemEngConsulting reporting</li>
+<li>🧑 LPSK (Lithuanian Trade Union Confederation) entered the debate by formally lobbying their national minister, operationalising ETUC's bloc-level position at the member-state level</li>
+<li>🌍 Japanese observers flagged EU Inc's no-minimum-capital rule as a paradigm shock with downstream implications for Japan's business manager visa system (@ngj_office)</li>
+<li>🌍 Japanese tax commentary highlighted the EU-ESO (employee stock option) component alongside EU Inc, noting taxation deferred to point of sale as the key structural feature (@worldtaxhub)</li>
+</ul>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W22</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W22:</guid>
