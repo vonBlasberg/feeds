@@ -5,7 +5,38 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 08 Jun 2026 04:06:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 04:07:31 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W25</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W25:</guid>
+    <pubDate>Mon, 15 Jun 2026 04:07:31 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W25</h2>
+<p>Civil society groups escalated their critique of EU Inc. this week, with Corporate Europe Observatory publishing two pieces framing the proposal as a vehicle for large-company regulatory arbitrage, while legal analysts probed investor protection and startup flexibility trade-offs in parallel.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://www.mondaq.com/corporate-governance/1798474/eu-28th-regime-explained-a-new-framework-for-company-incorporation-in-europe">EU '28th Regime' Explained: A New Framework For Company Incorporation In Europe</a></strong> (Mondaq) -- Solid legal reference piece covering the March 18 Commission proposal's core mechanics, useful for grounding the policy debate.</p>
+<p><strong><a href="https://www.law360.com/articles/2482470/-eu-inc-proposal-offers-startups-flexibility-but-with-limits">'EU Inc.' Proposal Offers Startups Flexibility But With Limits</a></strong> (Law360 UK) -- Analysis finding that while EU Inc. promises a seamless cross-border structure, the practical flexibility for high-growth businesses is more constrained than the headline framing suggests.</p>
+<p><strong><a href="https://www.bloomfeld.tax/post/2026-gr-1-k-eu-inc-bruessel-liefert-die-erste-echte-alternative-zur-gmbh">EU-Inc statt GmbH? Neue EU-Gesellschaftsform für Unternehmen geplant</a></strong> (bloomfeld.tax) -- German-language piece for founders and investors framing EU Inc. as the first serious alternative to the GmbH for European company formation.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>❌ EU Inc. has expanded far beyond its original "innovative startup" framing to cover all companies, enabling the largest firms to sidestep national rules protecting workers and consumers (Corporate Europe Observatory, "EU Inc: A corporate master plan to attack our rights")</li>
+<li>❌ The proposal's scope expansion reflects coordinated corporate lobbying pressure rather than genuine policy need, as documented in CEO's 2026 lobby league rankings (Corporate Europe Observatory, "The EU corporate lobby league 2026")</li>
+<li>❌ Digital-by-default incorporation and cross-border operability come at an unresolved cost to investor protection frameworks that the proposal does not adequately address (Minerva, "EU Inc: simplification, but at what cost for investor protection?")</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>🧑 European law faculties are entering the EU Inc. debate, with the Oxford Law Blog hosting cross-tradition dialogue on the proposal's conceptual foundations (<a href="https://blogs.law.ox.ac.uk/oblb/blog-post/2026/06/eu-inc-european-universities-new-conversations">EU Inc -- European Universities In New Conversations</a>)</li>
+<li>🌍 German-speaking business and tax press is engaging with EU Inc. as a GmbH-replacement question, signaling the German SME community is beginning to form views on the proposal.</li>
+</ul>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W24</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W24:</guid>
