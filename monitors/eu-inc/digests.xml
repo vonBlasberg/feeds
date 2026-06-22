@@ -5,7 +5,38 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 15 Jun 2026 04:07:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 22 Jun 2026 04:07:03 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W26</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W26:</guid>
+    <pubDate>Mon, 22 Jun 2026 04:07:03 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W26</h2>
+<p>The EU Inc. proposal drew sustained cross-border commentary this week, with legal analysts, startup insiders, and critical NGO voices each staking out distinct positions as the 'One Europe, One Market' roadmap surfaced on the European Council agenda.</p>
+<h3>This Week</h3>
+<p><strong><a href="https://www.hannessnellman.com/news-and-views/blog/eu-inc-will-the-proposed-new-eu-wide-company-form-keep-startups-in-europe/">EU Inc. -- Will the Proposed New EU-Wide Company Form Keep Startups in Europe?</a></strong> (Hannes Snellman) -- Substantive legal analysis asking whether simplified pan-EU incorporation mechanics would actually retain founders or merely shift paperwork.</p>
+<p><strong><a href="https://x.com/tldr_eu/status/2068774681084092850">Proposed "EU Inc." Regulation -- A Single EU Company, But Read the Fine Print</a></strong> (@tldr_eu) -- Concise breakdown of the 48-hour online registration headline versus the caveats buried in the draft text.</p>
+<p><strong><a href="https://www.archynewsy.com/euinc-and-competitiveness-legal-framework-challenges-for-european-businesses/">EUInc. and Competitiveness: Legal Framework Challenges for European Businesses</a></strong> (Archynewsy) -- Surveys the legal framework tensions the proposal creates alongside existing national company forms.</p>
+<p><strong><a href="https://www.riigikogu.ee/en/press-releases/european-union-affairs-committee-en/the-riigikogu-supports-simplification-of-setting-up-of-companies-in-the-european-union/">The Riigikogu supports simplification of setting up of companies in the EU</a></strong> (Riigikogu) -- Estonia's parliament formally backed the simplification direction, an early Member State endorsement from a country with a track record in digital-first incorporation.</p>
+<h3>New Arguments</h3>
+<ul>
+<li>✅ No single European country is large enough to compete with the US and China, making an EU-wide company form a geopolitical necessity (Andreas Klinger, EU Inc. initiator)</li>
+<li>❌ The proposal goes in the wrong direction -- two Austrian lawyers argue the Commission draft fails to deliver genuine harmonization and risks becoming a "Delaware in the EU" without the actual advantages (derStandard guest piece, May 2026)</li>
+<li>❌ EU Inc. is a "problematic deregulatory initiative" being bundled with the Omnibus under the 'One Europe, One Market' roadmap, raising concerns about the pace and political framing of reform (@HaenschenZ, EUCO commentary)</li>
+</ul>
+<h3>Radar</h3>
+<ul>
+<li>🧑 Austrian startup ecosystem figures including Wundsam, Klinger, and Hansmann formally wrote to official Sporrer demanding practical implementation of EU Inc., signaling coordinated industry pressure (brutkasten)</li>
+</ul>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W25</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W25:</guid>
