@@ -5,7 +5,23 @@
   <description>Track developments on EU-Inc (28th Regime) - European startup incorporation harmonization initiative</description>
   <link>https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml</link>
   <atom:link href="https://vonblasberg.github.io/feeds/monitors/eu-inc/digests.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 13 Jul 2026 04:01:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 04:01:17 +0000</lastBuildDate>
+  <item>
+    <title>EU INC | 2026-W30</title>
+    <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W30:</guid>
+    <pubDate>Mon, 20 Jul 2026 04:01:17 +0000</pubDate>
+    <description><![CDATA[<style>
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h2 { font-size: 1.1em; margin-top: 1.5em; }
+  h3 { font-size: 1em; color: #666; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; margin-top: 2em; margin-bottom: 0.5em; }
+  p { margin-bottom: 1em; }
+  li { margin-bottom: 8px; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 2em 0; }
+</style>
+<h2>eu-inc Weekly | 2026-W30</h2>
+<p>Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CdCeERFAEJP6zSpjRdyx5"}</p>]]></description>
+  </item>
   <item>
     <title>EU INC | 2026-W29</title>
     <guid isPermaLink="false">urn:openclaw:monitor:eu-inc:digest:2026-W29:</guid>
